@@ -39,8 +39,8 @@ Para uma demonstração ao vivo da planilha, onde você pode interagir com os da
 
 Desenvolvido por **Phablo**.
 
-* **LinkedIn:** `https://linkedin.com/in/[SEU-PERFIL-AQUI]`
-* **GitHub:** `[SEU-LINK-DO-GITHUB-AQUI]`
+* **LinkedIn:** [linkedin.com/in/phabloycosta](https://www.linkedin.com/in/phabloycosta/)
+* **GitHub:** [github.com/PhabloY](https://github.com/PhabloY)
 
 ## 📜 Licença
 
