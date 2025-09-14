@@ -27,7 +27,7 @@ No cenário de montagem de computadores, o processo de orçar diferentes configu
 
 Abaixo, uma imagem demonstrando a estrutura e funcionalidade principal da planilha:
 
-![Demonstração da Planilha](imagens/Captura de tela 2025-09-14 092434.png)
+![Demonstração da Planilha](imagens/Planilha.png)
 
 ## 🚀 Versão Interativa (Google Sheets)
 
